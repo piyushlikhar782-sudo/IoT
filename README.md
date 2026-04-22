@@ -1,4 +1,4 @@
- IoT Waste Management Dashboard
+# IoT Waste Management Dashboard
 
 A browser-only simulation app for monitoring smart dustbins. No backend, no real hardware — runs entirely in plain HTML, CSS, and JavaScript.
 
